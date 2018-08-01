@@ -8,9 +8,6 @@ function fetchBooks() {
   .then(json => console.log(json));
   
   
-  
-  
-  
 }
 
 function renderBooks(json) {
