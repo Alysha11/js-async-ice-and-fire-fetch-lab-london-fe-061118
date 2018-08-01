@@ -1,8 +1,6 @@
 function fetchBooks() {
 
- 
- 
-  //write fetch request to the Game of Thrones API
+ //write fetch request to the Game of Thrones API
   
   
 }
